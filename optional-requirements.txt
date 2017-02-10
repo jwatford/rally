@@ -5,3 +5,12 @@ python-cueclient>=1.0.0,<=1.0.0                        # Apache License, Version
 python-senlinclient>=0.3.0,<=1.0.0                     # Apache Software License
 python-magnumclient>=2.0.0,<=2.3.0                     # Apache Software License
 gnocchiclient>=2.2.0,<=2.5.0                           # Apache Software License
+build-essential 
+libssl-dev 
+libffi-dev 
+python-dev 
+libxml2-dev 
+libxslt1-dev 
+libpq-dev 
+python-pip 
+git
